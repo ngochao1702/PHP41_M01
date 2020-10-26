@@ -1,0 +1,53 @@
+.total {
+    position: relative;
+}
+
+#section-second {
+    margin: 0;
+    background-color: #cacaca;
+    height: 100%;
+    padding-top: 10rem;
+    display: none;
+    position: absolute;
+    top:0;
+    width: 100%;
+    
+
+}
+
+
+
+.s-content {
+    width: 30rem;
+    border: 2px solid gray;
+    background-color: white;
+    box-shadow: 5px 5px 10px gray;
+    
+    
+}
+.m-text {
+    margin-bottom: -5px;
+}
+.m-rote {
+    transform: rotate(45deg);
+    font-size: 32px;
+    font-weight: 500;
+    margin-top: -10px;
+    cursor: pointer;
+
+}
+.font-text {
+    font-size: 10px;
+}
+.gender {
+    margin-left: 0px;
+}
+.gender .input-gender {
+    font-size: 14px;
+}
+.gender .input-gender>input {
+    margin-top: 12px;
+}
+input.child {
+    margin-left: 20px;
+}

@@ -1,0 +1,40 @@
+
+
+.section {
+    background-color: #edf0f5;
+    min-height: 70vh;
+
+}
+* {
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+}
+
+
+.img img {
+    width: 301px;
+    height: 106px;
+    margin-left: -30px;
+}
+.l-text {
+    width: 92%;
+}
+.l-text p {
+    color:#1c1e21;
+    font-weight: 500;
+    font-size: 28px;
+}
+.d-form {
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1)
+}
+.total-f {
+    padding: 5rem;
+}
+.total-fo {
+    padding: 2rem;
+}
+
+.facebook-fo {
+    margin-top: 2rem;
+}
